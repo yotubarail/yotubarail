@@ -1,10 +1,10 @@
 ### Hi there 👋
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=yotubarail&count_private=true&show_icons=true" />
+    <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=yotubarail&count_private=true&show_icons=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yotubarail" />
+    <img align="left" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yotubarail" />
   </a>
 </p>
 <img src="https://github-profile-trophy.vercel.app/?username=yotubarail" />
