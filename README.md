@@ -8,6 +8,7 @@
   </a>
 </p>
 <img src="https://github-profile-trophy.vercel.app/?username=yotubarail" />
+![](https://komarev.com/ghpvc/?username=yotubarail&color=ff69b4)
 <!--
 **yotubarail/yotubarail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
